@@ -1,5 +1,10 @@
 # Engineering Leadership
 
+<!--ts-->
+<!--te-->
+
+## About
+
 I know somewhat less about engineering management due to not having worked as an engineering manager, but I enjoy reading about it. As for being a leader within engineering organizations as an individual contributor, I suppose you'd have to ask my current and former coworkers but again I've read quite a bit. I like to think that I have done a reasonable job of keeping up with emerging standards of practice and learning how to speak up when it counts and how to empower other ICs to do more fulfilling work.
 
 ## Books

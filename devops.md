@@ -12,6 +12,8 @@
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
+## About devops
+
 I've been involved in the devops community since 2009 (thanks to devopsdays Austin and various communities on irc), so I was there back when the practitioners who came up with it were defining it initially. I've seen marketing departments come up with product-based descriptions of devops. I was one of the people saying "devops isn't a job!" and then got "DevOps Engineer" as a job title. Many folks have their own definition, mine is something close to what [Boyd Hemphill came up with prior to the 2015 DevOps Enterprise Summit](https://twitter.com/behemphi/status/616321184863551488): 
 
 I'll paraphrase and expand on Boyd's tweet like so:
@@ -28,8 +30,6 @@ To understand what's meant by the culture part of the devops foundation, it help
 There's a vast amount of information out there on Lean business practices (in the Toyota/Deming tradition) as they apply to technology organizations. At their core, Lean practices are about a way to deliver greater benefit to society while reducing waste. In my view, organizations which neglect the foundation of Lean practices as providing primary value to society are potentially causing harm by focusing on providing good to a subset of society (e.g., the business first and society later). This may be considered controversial, but there is a strong tradition in non-IT engineering practices of being responsible to society at large, and I believe it is important to bring this into IT engineering practices.
 
 ### Automation
-
-
 
 ### Measurement
 

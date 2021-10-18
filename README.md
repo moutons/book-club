@@ -1,11 +1,26 @@
 # book-club
+
 talkin bout reading
 
 Topics:
 
-<!--ts-->
-* [book-club](README.md#book-club)
+* [Customer Success](customer-success.md#customer-success)
+  * [About](customer-success.md#about)
+  * [Books](customer-success.md#books)
+  * [Links](customer-success.md#links)
 
-<!-- Added by: runner, at: Mon Oct 18 05:04:11 UTC 2021 -->
+* [DevOps](devops.md#devops)
+  * [About devops](devops.md#about-devops)
+    * [Culture](devops.md#culture)
+    * [Lean](devops.md#lean)
+    * [Automation](devops.md#automation)
+    * [Measurement](devops.md#measurement)
+    * [Sharing](devops.md#sharing)
+  * [Books](devops.md#books)
 
-<!--te-->
+* [Engineering Leadership](engineering-leadership.md#engineering-leadership)
+  * [About](engineering-leadership.md#about)
+  * [Books](engineering-leadership.md#books)
+  * [Links](engineering-leadership.md#links)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)

@@ -1,16 +1,7 @@
 # DevOps
 
-## Table of Contents
-
-* [DevOps](#devops)
-    * [Culture](#culture)
-    * [Lean](#lean)
-    * [Automation](#automation)
-    * [Measurement](#measurement)
-    * [Sharing](#sharing)
-  * [Books](#books)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
+<!--ts-->
+<!--te-->
 
 ## About devops
 

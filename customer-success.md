@@ -1,6 +1,13 @@
 # Customer Success
 
 <!--ts-->
+* [Customer Success](customer-success.md#customer-success)
+   * [About](customer-success.md#about)
+   * [Books](customer-success.md#books)
+   * [Links](customer-success.md#links)
+
+<!-- Added by: runner, at: Mon Oct 18 05:04:12 UTC 2021 -->
+
 <!--te-->
 
 ## About

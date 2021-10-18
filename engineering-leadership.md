@@ -1,6 +1,13 @@
 # Engineering Leadership
 
 <!--ts-->
+* [Engineering Leadership](engineering-leadership.md#engineering-leadership)
+   * [About](engineering-leadership.md#about)
+   * [Books](engineering-leadership.md#books)
+   * [Links](engineering-leadership.md#links)
+
+<!-- Added by: runner, at: Mon Oct 18 05:04:12 UTC 2021 -->
+
 <!--te-->
 
 ## About

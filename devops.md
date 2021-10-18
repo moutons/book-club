@@ -1,6 +1,17 @@
 # DevOps
 
 <!--ts-->
+* [DevOps](devops.md#devops)
+   * [About devops](devops.md#about-devops)
+      * [Culture](devops.md#culture)
+      * [Lean](devops.md#lean)
+      * [Automation](devops.md#automation)
+      * [Measurement](devops.md#measurement)
+      * [Sharing](devops.md#sharing)
+   * [Books](devops.md#books)
+
+<!-- Added by: runner, at: Mon Oct 18 05:04:12 UTC 2021 -->
+
 <!--te-->
 
 ## About devops

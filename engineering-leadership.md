@@ -6,7 +6,7 @@
    * [Books](engineering-leadership.md#books)
    * [Links](engineering-leadership.md#links)
 
-<!-- Added by: runner, at: Thu Nov 18 19:16:12 UTC 2021 -->
+<!-- Added by: runner, at: Mon Oct 18 05:08:47 UTC 2021 -->
 
 <!--te-->
 
@@ -18,19 +18,30 @@ I know somewhat less about engineering management due to not having worked as an
 
 By no means a definitive list of books on this topic, just some I have read and found useful.
 
+Links go to non-Amazon sources where I found them, support your local bookstore where possible!
+
 [An Elegant Puzzle](https://lethain.com/elegant-puzzle/), Will Larson
 
 [Design for Safety](https://abookapart.com/products/design-for-safety), Eva PenzeyMoog
 
+[The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/)
+
 [Just Enough Research](https://abookapart.com/products/just-enough-research), Erika Hall
 
 [The Manager's Path](https://smile.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/), Camille Fournier
+
+[The New Economics for Industry, Government, Education](https://deming.org/store/), W. Edwards Deming
+- note: I read this in 2006 when trying to figure out how to improve the relationship between a community mental health agency and the government agencies we billed for services (county government, medicaid). It's informed my thinking around "devops" more than any other source except perhaps the John Willis/Damon Edwards podcasts.
 
 [Release It!](https://pragprog.com/titles/mnee2/release-it-second-edition/), Michael Nygard
 
 [Resilient Management](https://resilient-management.com/), Lara Hogan
 
 [Staff Engineer](https://staffeng.com), Will Larson
+
+[Statistical Method from the Viewpoint of Quality Control](https://smile.amazon.com/gp/product/B00A735MMG/), Walter A. Shewhart, W. Edwards Deming
+
+[Team Topologies](https://teamtopologies.com/), Matthew Skelton and Manuel Pais
 
 ## Links
 

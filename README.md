@@ -2,6 +2,8 @@
 
 talkin bout reading
 
+books/links may show up on more than one list, I might find a different way of organizing things later but I'm certainly not holding my breath
+
 Topics:
 
 * [Customer Success](customer-success.md#customer-success)

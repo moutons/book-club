@@ -39,12 +39,12 @@ There's a vast amount of information out there on Lean business practices (in th
 
 ## Books
 
-Accelerate
-Effective Devops
-Kanban
-Making Work Visible
-Modern System Administration (forthcoming)
-The DevOps Handbook
-The Phoenix Project
-The Unicorn Project
-The Goal
+* Accelerate
+* Effective Devops
+* Kanban
+* Making Work Visible
+* Modern System Administration (forthcoming)
+* The DevOps Handbook
+* The Phoenix Project
+* The Unicorn Project
+* The Goal

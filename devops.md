@@ -39,12 +39,13 @@ There's a vast amount of information out there on Lean business practices (in th
 
 ## Books
 
-* Accelerate
-* Effective Devops
-* Kanban
-* Making Work Visible
-* Modern System Administration (forthcoming)
-* The DevOps Handbook
-* The Phoenix Project
-* The Unicorn Project
-* The Goal
+* [Accelerate](https://itrevolution.com/book/accelerate/) - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+* [Effective Devops](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
+* [Kanban](https://openlibrary.org/works/OL16813548W/Kanban)
+* [Making Work Visible](https://itrevolution.com/making-work-visible-by-dominica-degrandis/)
+* [Modern System Administration](https://www.oreilly.com/library/view/modern-system-administration/9781492055204/) (forthcoming)
+* [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
+* [The Phoenix Project](https://itrevolution.com/the-phoenix-project/)
+* [The Unicorn Project](https://itrevolution.com/the-unicorn-project/)
+* [The Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29)
+  * The TOC Institute's [Reading List](https://www.tocinstitute.org/recommended-books.html)
